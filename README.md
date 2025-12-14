@@ -32,10 +32,10 @@
 ---
 
 ## 🧪 Labs & Practice
-- TryHackMe: https://tryhackme.com/p/USERNAME
+- TryHackMe: [https://tryhackme.com/p/mohamedsajadniflar]
 - CTF-style challenges & security labs
 
 ---
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: [https://www.linkedin.com/in/sajadniflar/]
